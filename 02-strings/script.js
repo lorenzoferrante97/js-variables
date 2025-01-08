@@ -10,6 +10,14 @@ console.log(myname)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let birthday = 19;
+let favouriteVideogame = "dark souls";
+let isGamer = true;
+
+console.log(`giorno di nascita: ${birthday}`)
+console.log(`gamer?: ${isGamer}`)
+console.log(`videogioco preferito: ${favouriteVideogame}`)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
