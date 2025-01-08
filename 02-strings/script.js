@@ -34,3 +34,4 @@ const numberOfLettersInAlphabet = alphabet.length;
 console.log(numberOfLettersInAlphabet); // Output: 26
 
 //start code
+//end code
