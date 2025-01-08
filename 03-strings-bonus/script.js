@@ -31,3 +31,4 @@ const upperCaseHello = hello.toUpperCase();
 console.log(upperCaseHello); // Output: "HELLO"
 
 //start bonus
+//end bonus
